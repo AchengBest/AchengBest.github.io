@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+## 关于我
 
-You can use the [editor on GitHub](https://github.com/AchengBest/AchengBest.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### 第一阶段 生
+公元前180年 我生于**中华大地**。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+
+#### 第二阶段 成长
+我正在变强。
+
+---
+
+#### 第三阶段 变强后
+掌握技能 科学与技术 艺术与哲学 琴棋书画 六艺经传皆通习之。（猛的一）
+
+> 上述内容纯属虚构
 
 ### Markdown
 
